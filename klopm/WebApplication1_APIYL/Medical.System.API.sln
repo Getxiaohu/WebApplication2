@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1_APIYL", "WebApplication1_APIYL\WebApplication1_APIYL.csproj", "{41D8DB4E-3A9F-4159-9464-D868714548D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medical.System_APIYL", "WebApplication1_APIYL\Medical.System_APIYL.csproj", "{41D8DB4E-3A9F-4159-9464-D868714548D6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medical.System.Model", "Medical.System.Model\Medical.System.Model.csproj", "{0E5990FC-0F5D-432B-A33B-A25D8E7C3CB5}"
 EndProject
