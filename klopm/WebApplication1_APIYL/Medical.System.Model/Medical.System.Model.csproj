@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="ZHQ_Model\" />
-    <Folder Include="JCY_Model\" />
     <Folder Include="HZX_Model\" />
     <Folder Include="DLH_Model\" />
     <Folder Include="ZZH_Model\" />
