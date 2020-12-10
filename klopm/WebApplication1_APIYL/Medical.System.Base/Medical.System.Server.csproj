@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ZHQ_Server\" />
+    <Folder Include="JCY_Server\" />
+    <Folder Include="HZX_Server\" />
+    <Folder Include="DLH_Server\" />
+    <Folder Include="ZZH_Server\" />
+  </ItemGroup>
+
+</Project>

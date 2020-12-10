@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1_APIYL", "WebApplication1_APIYL\WebApplication1_APIYL.csproj", "{41D8DB4E-3A9F-4159-9464-D868714548D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1_APIYL", "WebApplication1_APIYL\WebApplication1_APIYL.csproj", "{41D8DB4E-3A9F-4159-9464-D868714548D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medical.System.Model", "Medical.System.Model\Medical.System.Model.csproj", "{0E5990FC-0F5D-432B-A33B-A25D8E7C3CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medical.System.Server", "Medical.System.Base\Medical.System.Server.csproj", "{546D5BDC-4205-4329-9232-743074F82543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medical.System.BLL", "Medical.System.BLL\Medical.System.BLL.csproj", "{3F1CAC19-EE5A-4019-BAB8-83A3263E781A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{41D8DB4E-3A9F-4159-9464-D868714548D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41D8DB4E-3A9F-4159-9464-D868714548D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41D8DB4E-3A9F-4159-9464-D868714548D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5990FC-0F5D-432B-A33B-A25D8E7C3CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5990FC-0F5D-432B-A33B-A25D8E7C3CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5990FC-0F5D-432B-A33B-A25D8E7C3CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5990FC-0F5D-432B-A33B-A25D8E7C3CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546D5BDC-4205-4329-9232-743074F82543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546D5BDC-4205-4329-9232-743074F82543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546D5BDC-4205-4329-9232-743074F82543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546D5BDC-4205-4329-9232-743074F82543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1CAC19-EE5A-4019-BAB8-83A3263E781A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1CAC19-EE5A-4019-BAB8-83A3263E781A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1CAC19-EE5A-4019-BAB8-83A3263E781A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1CAC19-EE5A-4019-BAB8-83A3263E781A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

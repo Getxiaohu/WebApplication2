@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ZHQ_BLL\" />
+    <Folder Include="JCY_BLL\" />
+    <Folder Include="HZX_BLL\" />
+    <Folder Include="DLH_BLL\" />
+    <Folder Include="ZZH_BLL\" />
+  </ItemGroup>
+
+</Project>
