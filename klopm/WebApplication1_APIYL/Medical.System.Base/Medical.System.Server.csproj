@@ -9,7 +9,6 @@
     <Folder Include="JCY_Server\" />
     <Folder Include="HZX_Server\" />
     <Folder Include="DLH_Server\" />
-    <Folder Include="ZZH_Server\" />
   </ItemGroup>
 
 </Project>
