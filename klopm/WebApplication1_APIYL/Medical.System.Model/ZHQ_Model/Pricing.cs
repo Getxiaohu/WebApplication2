@@ -12,7 +12,7 @@ namespace Medical.System.Model.ZHQ_Model
         /// <summary>
         /// 主键
         /// </summary>
-        public int Pricing		 { get; set; }
+        public int PricingId	 { get; set; }
         /// <summary>
         /// 药品编号
         /// </summary>

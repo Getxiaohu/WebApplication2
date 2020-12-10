@@ -12,5 +12,10 @@
     <Folder Include="Controllers\DLH_Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Medical.System.BLL\Medical.System.BLL.csproj" />
+    <ProjectReference Include="..\Medical.System.Model\Medical.System.Model.csproj" />
+  </ItemGroup>
+
 
 </Project>

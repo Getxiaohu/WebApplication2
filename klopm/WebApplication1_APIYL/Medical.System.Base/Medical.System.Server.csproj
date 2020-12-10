@@ -5,10 +5,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ZHQ_Server\" />
     <Folder Include="JCY_Server\" />
     <Folder Include="HZX_Server\" />
     <Folder Include="DLH_Server\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Medical.System.Model\Medical.System.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Users\lenovo\Desktop\引用第三方或帮助东西\Newtonsoft.Json.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

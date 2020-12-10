@@ -5,11 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ZHQ_BLL\" />
     <Folder Include="JCY_BLL\" />
     <Folder Include="HZX_BLL\" />
     <Folder Include="DLH_BLL\" />
     <Folder Include="ZZH_BLL\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Medical.System.Base\Medical.System.Server.csproj" />
+    <ProjectReference Include="..\Medical.System.Model\Medical.System.Model.csproj" />
   </ItemGroup>
 
 </Project>
